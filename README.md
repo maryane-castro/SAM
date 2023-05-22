@@ -13,20 +13,23 @@
 <p>SAM é um sistema de segmentação com capacidade de receber instruções (promptable) que possui generalização de zero-shot para objetos e imagens desconhecidos, sem a necessidade de treinamento adicional.</p>
 
 
-<h2>Tutorial</h2>
-
-
-<h2>Linguagem Usada</h2>
-<ul>
-    <li>Python</li>
-</ul>
+<h2>Como Usar</h2>
+<p>Embora no Notebook disponibilizado há várias "ajudas", aqui está um tutórial inicial</p>
 
 
 
 
 
 
+<h2>Contribuição</h2>
+<p>Sinta-se à vontade para contribuir para este projeto de Segmentação de Qualquer Coisa com Meta! Se você tiver ideias para melhorias, correções de bugs ou novos recursos, abra uma issue neste repositório. Você também pode enviar um pull request com suas alterações propostas.</p>
 
 
+<h2>Licença</h2>
+<p>Este projeto é licenciado sob a licença [MIT](https://opensource.org/license/mit/)
+. Leia o arquivo LICENSE para obter mais informações sobre os direitos concedidos.</p>
 
-Para utilizar o projeto de Segmentação de Qualquer Coisa com Meta, siga as etapas abaixo:
+<h2>Contato</h2>
+
+
+<p>Se você tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se à vontade para entrar em contato conosco. Você pode nos alcançar através do email maryane.castro993@gmail.com</p>
