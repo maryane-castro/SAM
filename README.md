@@ -32,4 +32,4 @@
 <h2>Contato</h2>
 
 
-<p>Se você tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se à vontade para entrar em contato conosco. Você pode nos alcançar através do email maryane.castro993@gmail.com</p>
+<p>Se você tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se à vontade para entrar em contato. Você pode me alcançar através do email maryane.castro993@gmail.com</p>
