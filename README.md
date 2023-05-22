@@ -15,7 +15,7 @@
 
 <h2>Como Usar</h2>
 <p>Embora no Notebook disponibilizado há várias "ajudas", aqui está um tutórial inicial</p>
-...Construç
+...Construção
 
 
 
