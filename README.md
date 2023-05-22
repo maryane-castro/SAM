@@ -26,7 +26,7 @@
 
 
 <h2>Licença</h2>
-<p>Este projeto é licenciado sob a licença [MIT](https://opensource.org/license/mit/)
+<p>Este projeto é licenciado sob a licença <a href="https://opensource.org/license/mit/">MIT LICENCE</a>
 . Leia o arquivo LICENSE para obter mais informações sobre os direitos concedidos.</p>
 
 <h2>Contato</h2>
