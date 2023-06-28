@@ -15,7 +15,80 @@
 
 <h2>Como Usar</h2>
 <p>Embora no Notebook disponibilizado há várias "ajudas", aqui está um tutórial inicial</p>
-...Construção
+
+## Como usar
+
+Siga as instruções abaixo para executar o Segment Anything Model (SAM) e realizar a segmentação automática ou manual de imagens.
+
+### Pré-requisitos
+
+- Python 3.7 ou superior
+- GPU compatível com CUDA (recomendado)
+
+### Instalação
+
+1. Clone este repositório para o seu ambiente local.
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+2. Navegue até o diretório do projeto.
+
+```bash
+cd seu-repositorio
+```
+
+3. Instale as dependências necessárias.
+
+```bash
+pip install -r requirements.txt
+```
+
+### Segmentação Automática
+
+1. Certifique-se de ter uma imagem de entrada no formato JPEG ou PNG.
+
+2. Execute o seguinte comando para realizar a segmentação automática.
+
+```bash
+python segment_auto.py --image caminho/para/imagem.jpg
+```
+
+3. O resultado da segmentação automática será exibido na tela ou salvo como um arquivo de imagem.
+
+### Segmentação Manual
+
+1. Certifique-se de ter uma imagem de entrada no formato JPEG ou PNG.
+
+2. Execute o seguinte comando para realizar a segmentação manual.
+
+```bash
+python segment_manual.py --image caminho/para/imagem.jpg
+```
+
+3. Uma janela interativa será aberta, onde você poderá desenhar uma caixa delimitadora em torno da área que deseja segmentar.
+
+4. Após desenhar a caixa, a máscara correspondente será gerada e exibida na janela.
+
+5. Pressione a tecla "Esc" para fechar a janela e salvar a máscara resultante como um arquivo de imagem.
+
+### Exemplos de Uso
+
+- Segmentação Automática:
+
+```bash
+python segment_auto.py --image examples/image1.jpg
+```
+
+- Segmentação Manual:
+
+```bash
+python segment_manual.py --image examples/image2.jpg
+```
+
+Certifique-se de substituir "caminho/para/imagem.jpg" pelos caminhos reais das imagens que você deseja segmentar.
+
 
 
 
